@@ -1,6 +1,6 @@
-# coin_market
+# chocomode
 
-<a href="https://coin-market-beta.vercel.app/">View Demo</a>
+<a href="https://vercel.com/marjanmokhtaris-projects/chocomode">View Demo</a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
