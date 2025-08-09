@@ -6,6 +6,10 @@ First, run the development server:
 
 ```bash
 npm run dev
+# coin_market
+
+<a href="https://coin-market-beta.vercel.app/">View Demo</a>
+
 # or
 yarn dev
 # or
